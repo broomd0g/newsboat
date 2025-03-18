@@ -1,0 +1,6 @@
+#highlight all "CVE-[0-9]+-[0-9]+" purple
+auto-reload yes
+browser "xdg-open %u"
+cache-file "~/.newsboat/cache.db"
+datetime-format "%Y %b %d %H:%M"
+feed-sort-order lastupdated
