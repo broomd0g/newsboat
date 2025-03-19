@@ -1,2 +1,2 @@
 # newsboat
-newsboat config and urls
+My newsboat config and cybersecurity urls backup.
