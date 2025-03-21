@@ -76,6 +76,7 @@ http://www.reddit.com/r/netsec/.rss
 http://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
 http://www.unix-ninja.com/feed/rss/
 https://0x1.gitlab.io/feed.xml
+https://0xdf.gitlab.io/feed.xml
 https://a13xp0p0v.github.io/feed.xml
 https://addxorrol.blogspot.com/feeds/posts/default
 https://adsecurity.org/?feed=rss2
@@ -119,8 +120,10 @@ https://citizenlab.ca/feed/
 https://cofense.com/feed/
 https://colinoflynn.com/feed/
 https://community.disclose.io/latest.rss
+https://danaepp.com/blog/feed
 https://dayzerosec.com/feed.xml
 https://digi.ninja/rss.xml
+https://dissectingmalwa.re/index.xml
 https://doar-e.github.io/feeds/rss.xml
 https://eclypsium.com/category/blog/feed/
 https://enigma0x3.net/feed/
@@ -156,6 +159,7 @@ https://intercepter-ng.blogspot.com/feeds/posts/default
 https://interrupt.memfault.com/feed.xml
 https://intezer.com/blog/feed/
 https://isc.sans.edu/rssfeed_full.xml
+https://jorianwoltjer.com/blog/rss.xml
 https://jumpespjump.blogspot.com/feeds/posts/default
 https://justi.cz/feed.xml
 https://krebsonsecurity.com/feed/
@@ -199,6 +203,8 @@ https://socprime.com/blog/feed/
 https://tcm-sec.com/feed/
 https://therecord.media/feed
 https://threatpost.com/feed/
+https://tinyhack.com/feed/
+https://tisiphone.net/feed/
 https://trustedsec.com/feed.rss
 https://trustfoundry.net/feed/
 https://us-cert.cisa.gov/ics/advisories/advisories.xml
@@ -215,6 +221,7 @@ https://www.bleepingcomputer.com/feed/
 https://www.cisecurity.org/feed/advisories
 https://www.corelan.be/index.php/feed/
 https://www.crowdstrike.com/en-us/blog/feed
+https://www.da.vidbuchanan.co.uk/blog/rss.xml
 https://www.darkreading.com/rss.xml
 https://www.eevblog.com/feed/
 https://www.eff.org/rss/updates.xml
