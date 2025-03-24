@@ -72,7 +72,6 @@ http://www.darkoperator.com/blog/rss.xml
 http://www.exploit-monday.com/feeds/posts/default
 http://www.malware-traffic-analysis.net/blog-entries.rss
 http://www.mathyvanhoef.com/feeds/posts/default
-http://www.reddit.com/r/netsec/.rss
 http://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
 http://www.unix-ninja.com/feed/rss/
 https://0x1.gitlab.io/feed.xml
@@ -200,12 +199,12 @@ https://securityintelligence.com/feed/
 https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml
 https://sensepost.com/rss.xml
 https://socprime.com/blog/feed/
+https://something.fromnothing.blog/index.xml
 https://tcm-sec.com/feed/
 https://therecord.media/feed
 https://threatpost.com/feed/
 https://tinyhack.com/feed/
 https://tisiphone.net/feed/
-https://trustedsec.com/feed.rss
 https://trustfoundry.net/feed/
 https://us-cert.cisa.gov/ics/advisories/advisories.xml
 https://us-cert.cisa.gov/ncas/alerts.xml
@@ -241,7 +240,6 @@ https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
 https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
 https://www.offsec.com/feed/
 https://www.optiv.com/resources/blog/feed
-https://www.paloaltonetworks.com/blog/feed/
 https://www.paloaltonetworks.com/blog/rss
 https://www.proofpoint.com/us/rss.xml
 https://www.recordedfuture.com/feed
